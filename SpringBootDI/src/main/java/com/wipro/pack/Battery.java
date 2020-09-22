@@ -1,7 +1,7 @@
 package com.wipro.pack;
 
 import org.springframework.stereotype.Component;
-
+//springboot dependency injection 
 @Component
 public class Battery {
 	private String model;
